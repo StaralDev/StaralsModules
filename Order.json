@@ -4,6 +4,7 @@
         "Creator" : "Staral",
         "Version" : 1,
         "Use" : "Functional",
-        "Path" : "Modules/TestModule.lua"
+        "Path" : "Modules/TestModule.lua",
+        "License" : "Free to Use"
     }
 }
