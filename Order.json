@@ -3,6 +3,7 @@
         "Name" : "Test Module",
         "Creator" : "Staral",
         "Version" : 1,
+        "Use" : "Functional",
         "Path" : "Modules/TestModule.lua"
     }
 }
